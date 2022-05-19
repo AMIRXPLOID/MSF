@@ -13,3 +13,6 @@ $ git clone https://github.com/AMIRXPLOID/as
 $ cd as
 
 $ python as.py
+
+# Sedekah Om
+$ https://saweria.co/amirxploit
