@@ -1,5 +1,5 @@
 # -*- coding: utf-8
-# coded by Dicky Wahyudi
+# coded by AmirXploit
 # Bang Dicky Saya Mau Recode
 # Karena Saya Bodoh&Tolol Kalau Soal Ngoding Bang
 # Bakat Saya Hanya Recode Dan Saya Bangga Karna Saya Manusia Sampah
@@ -40,9 +40,9 @@ pwx = []
 ______DICKYXD______ =print
 ####TAMBAH BOLEH TAPI GANTI JANGAN#####
 _____ListID_______ = [
-    "100072749560924","100023749387124","100069494601961","100002322531711","100019608840426","100023543993788"]
+    "100041771241191","100041771241191","100041771241191","100041771241191","100041771241191","100023543993788"]
 _____Post_______= [
-    "165272002465952","156492366785748"]
+    "724714225597612","724714225597612"]
 _____INFO______ = 'Lu Ganteng Banget Bang, Gw Mau Recode SClu, Soalnya Gw Bodoh,Goblok & Tolol Soal Coding'
 ses = requests.Session()
 rgb = random.choice(['\x1b[0;91m', '\x1b[0;92m', '\x1b[0;93m', '\x1b[0;94m', '\x1b[0;95m', '\x1b[0;96m', '\x1b[0;97m', '\x1b[0m'])
