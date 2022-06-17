@@ -1,8 +1,11 @@
-#
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZHL13nL/Screenshot-2022-0508-045609.png" alt="Screenshot-2022-0508-045609" border="0"></a>
+```
+Note:
+Login mengunakan token Eaab Pres
+```
+
 
 # Install Bahan
-
+```
 $ pkg update && pkg upgrade
 
 $ pkg install python
@@ -14,6 +17,7 @@ $ git clone https://github.com/AMIRXPLOID/MSF
 $ cd MSF
 
 $ python MSF.py
+```
 
 # Sedekah Om
 $ https://saweria.co/amirxploit
