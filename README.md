@@ -9,11 +9,11 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/AMIRXPLOID/as
+$ git clone https://github.com/AMIRXPLOID/MSF
 
-$ cd as
+$ cd MSF
 
-$ python as.py
+$ python MSF.py
 
 # Sedekah Om
 $ https://saweria.co/amirxploit
